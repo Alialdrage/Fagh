@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer compass dial ring -->
+    <path
+        android:pathData="M54,22 A32,32 0 1,1 53.99,22"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFD54F"
+        android:fillColor="#00000000" />
+    <!-- Cardinal ticks -->
+    <path
+        android:pathData="M54,18 L54,23 M54,85 L54,90 M18,54 L23,54 M85,54 L90,54"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFF"
+        android:strokeLineCap="round" />
+    <!-- North arrow / Pointer -->
+    <path
+        android:pathData="M54,24 L58,34 L54,31 L50,34 Z"
+        android:fillColor="#4ADE80" />
+    <!-- Kaaba Cube in Center -->
+    <path
+        android:pathData="M39,46 L69,46 L69,72 L39,72 Z"
+        android:fillColor="#111827" />
+    <!-- Kaaba Gold Belt (Hizam / Kiswah Band) -->
+    <path
+        android:pathData="M39,52 L69,52 L69,56 L39,56 Z"
+        android:fillColor="#FFD700" />
+    <!-- Kaaba Door (Bab al-Kaaba) in Gold -->
+    <path
+        android:pathData="M57,60 L65,60 L65,72 L57,72 Z"
+        android:fillColor="#FFC107" />
+    <!-- Crescent Moon Accent above Kaaba -->
+    <path
+        android:pathData="M57,33 C53.5,33 50.5,35.5 50,39 C51.5,38 53.5,37.5 55.5,38 C58,38.5 59.8,40.5 60.5,43 C61.8,41 62,38 60.5,35.5 C59.5,34 58.3,33.3 57,33 Z"
+        android:fillColor="#FFD54F" />
+</vector>

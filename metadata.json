@@ -1,0 +1,6 @@
+{
+  "name": "فتاوى السيستاني",
+  "description": "تطبيق فتاوى سماحة السيد علي السيستاني مع قاعدة بيانات Room محلية للتخزين المؤقت والقراءة دون اتصال، ومحرك بحث متقدم، وحفظ الملاحظات والمحفوظات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
